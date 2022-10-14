@@ -6,3 +6,4 @@
 6.  C program that prints exactly with proper grammar, but the outcome is a piece of art
 7.  a C program that prints the size of various types on the computer it is compiled and run on
 8. a script that generates the assembly code (Intel syntax) of a C code and save it in an output file
+9. a simple operating system, but you have to be a genius to understand the simplicity
