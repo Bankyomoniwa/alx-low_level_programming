@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - Prin exactly and that piece of art is useful
+ * main - Prints exactly and that piece of art is useful
  *
  * Return: Always 0 (Success)
  */
