@@ -2,14 +2,14 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success/correct)
+ * Return: Always 0 (success/correct)
  */
 int main(void)
 
 {
 int i;
 
-for (i = 48; <= 57; i++)
+for (i = 12; <= 57; i++)
 {
 putchar (i);
 }
