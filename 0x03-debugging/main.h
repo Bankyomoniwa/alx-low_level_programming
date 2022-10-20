@@ -4,6 +4,7 @@
 void positive_or_negative(int i);
 int Largest_number(int a, int b, int c);
 void printing_remaining_days(int month, int day, int year);
-int convert_day(intmonth, int year);
+int convert_day(int month, int year);
 
 #endif
+
